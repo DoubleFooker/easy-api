@@ -61,9 +61,9 @@ jar {
                 , "org/checkerframework/checker/**"
                 , "afu/org/checkerframework/checker/**"
                 , "afu/org/plume/**"
-                , "kotlin/**"
-                , "org/jetbrains/annotations/**"
-                , "org/intellij/langannotations/**"
+//                , "kotlin/**"
+//                , "org/jetbrains/annotations/**"
+//                , "org/intellij/langannotations/**"
     ]
 //    excludes = ["com/google/common/**"]
 //    excludes = ["com/google/common/**", "org/apache/http/util/**"]
